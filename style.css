@@ -10,6 +10,8 @@
   }
   
   #image {
+    /* display: flex;
+    margin-top: 0cap; */
     display: block;
     margin: auto;
     max-width: 100%;
